@@ -1,0 +1,17 @@
+
+=== SUCCESS LOG - 2025-10-13 23:19:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_12_stageii.npz
+Output file: ../robot/ik_based/pkl/006012.pkl
+Robot type: unitree_g1
+Processing time: 24.98 seconds
+Status: SUCCESS
+==================================================
+
+=== FINAL STATISTICS - 2025-10-13 23:19:07 ===
+Total files processed: 6
+Successful: 6
+Failed: 0
+Total processing time: 24.98 seconds
+Total execution time: 25.58 seconds
+Average processing time per file: 4.16 seconds
+==================================================

@@ -1,0 +1,847 @@
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 11:01:19 ===
+File index: 007033
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_35_stageii.npz
+Output file: ../robot/ik_based/pkl/007033.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== ERROR LOG - 2025-10-14 11:01:20 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/male_stagei.npz
+Output file: ../robot/ik_based/pkl/007034.pkl
+Robot type: unitree_g1
+Processing time: 0.66 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== FILE FAILURE - 2025-10-14 11:01:20 ===
+File index: 007034
+File number: 2/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/male_stagei.npz
+Output file: ../robot/ik_based/pkl/007034.pkl
+Processing time: 0.66 seconds
+Total file time: 0.72 seconds
+Status: FAILED
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:01:28 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007035.pkl
+Robot type: unitree_g1
+Processing time: 7.94 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.87s
+  Step 2 - Align FPS:         0.66s
+  Step 3 - Init Retarget:     0.94s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.07s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.38s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:01:28 ===
+File index: 007035
+File number: 3/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007035.pkl
+Processing time: 7.94 seconds
+Total file time: 8.12 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:01:36 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_02_stageii.npz
+Output file: ../robot/ik_based/pkl/007036.pkl
+Robot type: unitree_g1
+Processing time: 7.70 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.88s
+  Step 2 - Align FPS:         0.84s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    5.33s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.37s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:01:36 ===
+File index: 007036
+File number: 4/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_02_stageii.npz
+Output file: ../robot/ik_based/pkl/007036.pkl
+Processing time: 7.70 seconds
+Total file time: 7.89 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:01:44 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_03_stageii.npz
+Output file: ../robot/ik_based/pkl/007037.pkl
+Robot type: unitree_g1
+Processing time: 7.75 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.92s
+  Step 2 - Align FPS:         0.92s
+  Step 3 - Init Retarget:     0.27s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    5.44s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.19s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:01:44 ===
+File index: 007037
+File number: 5/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_03_stageii.npz
+Output file: ../robot/ik_based/pkl/007037.pkl
+Processing time: 7.75 seconds
+Total file time: 7.98 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:01:51 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_04_stageii.npz
+Output file: ../robot/ik_based/pkl/007038.pkl
+Robot type: unitree_g1
+Processing time: 7.20 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.91s
+  Step 2 - Align FPS:         0.99s
+  Step 3 - Init Retarget:     0.27s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    4.98s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:01:51 ===
+File index: 007038
+File number: 6/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_04_stageii.npz
+Output file: ../robot/ik_based/pkl/007038.pkl
+Processing time: 7.20 seconds
+Total file time: 7.44 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:01:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_05_stageii.npz
+Output file: ../robot/ik_based/pkl/007039.pkl
+Robot type: unitree_g1
+Processing time: 6.43 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.96s
+  Step 2 - Align FPS:         1.05s
+  Step 3 - Init Retarget:     0.25s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    4.12s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:01:58 ===
+File index: 007039
+File number: 7/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_05_stageii.npz
+Output file: ../robot/ik_based/pkl/007039.pkl
+Processing time: 6.43 seconds
+Total file time: 6.65 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_06_stageii.npz
+Output file: ../robot/ik_based/pkl/007040.pkl
+Robot type: unitree_g1
+Processing time: 4.41 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.83s
+  Step 2 - Align FPS:         0.66s
+  Step 3 - Init Retarget:     0.20s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    2.69s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:03 ===
+File index: 007040
+File number: 8/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_06_stageii.npz
+Output file: ../robot/ik_based/pkl/007040.pkl
+Processing time: 4.41 seconds
+Total file time: 4.60 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_07_stageii.npz
+Output file: ../robot/ik_based/pkl/007041.pkl
+Robot type: unitree_g1
+Processing time: 3.84 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.76s
+  Step 2 - Align FPS:         0.38s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    2.40s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:07 ===
+File index: 007041
+File number: 9/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_07_stageii.npz
+Output file: ../robot/ik_based/pkl/007041.pkl
+Processing time: 3.84 seconds
+Total file time: 3.96 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:11 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_08_stageii.npz
+Output file: ../robot/ik_based/pkl/007042.pkl
+Robot type: unitree_g1
+Processing time: 4.16 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.79s
+  Step 2 - Align FPS:         0.50s
+  Step 3 - Init Retarget:     0.18s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    2.66s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:11 ===
+File index: 007042
+File number: 10/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_08_stageii.npz
+Output file: ../robot/ik_based/pkl/007042.pkl
+Processing time: 4.16 seconds
+Total file time: 4.30 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:16 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_09_stageii.npz
+Output file: ../robot/ik_based/pkl/007043.pkl
+Robot type: unitree_g1
+Processing time: 5.44 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.89s
+  Step 2 - Align FPS:         0.92s
+  Step 3 - Init Retarget:     0.17s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.41s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:17 ===
+File index: 007043
+File number: 11/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_09_stageii.npz
+Output file: ../robot/ik_based/pkl/007043.pkl
+Processing time: 5.44 seconds
+Total file time: 5.66 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:21 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_10_stageii.npz
+Output file: ../robot/ik_based/pkl/007044.pkl
+Robot type: unitree_g1
+Processing time: 4.79 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.86s
+  Step 2 - Align FPS:         0.76s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    2.87s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:22 ===
+File index: 007044
+File number: 12/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_10_stageii.npz
+Output file: ../robot/ik_based/pkl/007044.pkl
+Processing time: 4.79 seconds
+Total file time: 4.97 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:23 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_11_stageii.npz
+Output file: ../robot/ik_based/pkl/007045.pkl
+Robot type: unitree_g1
+Processing time: 1.79 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.70s
+  Step 2 - Align FPS:         0.18s
+  Step 3 - Init Retarget:     0.19s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    0.69s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:23 ===
+File index: 007045
+File number: 13/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_11_stageii.npz
+Output file: ../robot/ik_based/pkl/007045.pkl
+Processing time: 1.79 seconds
+Total file time: 1.88 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_12_stageii.npz
+Output file: ../robot/ik_based/pkl/007046.pkl
+Robot type: unitree_g1
+Processing time: 6.43 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.95s
+  Step 2 - Align FPS:         1.09s
+  Step 3 - Init Retarget:     0.19s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    4.16s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:30 ===
+File index: 007046
+File number: 14/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_12_stageii.npz
+Output file: ../robot/ik_based/pkl/007046.pkl
+Processing time: 6.43 seconds
+Total file time: 6.70 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_13_stageii.npz
+Output file: ../robot/ik_based/pkl/007047.pkl
+Robot type: unitree_g1
+Processing time: 4.93 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.85s
+  Step 2 - Align FPS:         0.73s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.04s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:35 ===
+File index: 007047
+File number: 15/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_13_stageii.npz
+Output file: ../robot/ik_based/pkl/007047.pkl
+Processing time: 4.93 seconds
+Total file time: 5.11 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:41 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_14_stageii.npz
+Output file: ../robot/ik_based/pkl/007048.pkl
+Robot type: unitree_g1
+Processing time: 5.38 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.88s
+  Step 2 - Align FPS:         0.80s
+  Step 3 - Init Retarget:     0.19s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.47s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:41 ===
+File index: 007048
+File number: 16/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_14_stageii.npz
+Output file: ../robot/ik_based/pkl/007048.pkl
+Processing time: 5.38 seconds
+Total file time: 5.57 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_15_stageii.npz
+Output file: ../robot/ik_based/pkl/007049.pkl
+Robot type: unitree_g1
+Processing time: 5.58 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.92s
+  Step 2 - Align FPS:         0.94s
+  Step 3 - Init Retarget:     0.16s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.51s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:47 ===
+File index: 007049
+File number: 17/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_15_stageii.npz
+Output file: ../robot/ik_based/pkl/007049.pkl
+Processing time: 5.58 seconds
+Total file time: 5.79 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_16_stageii.npz
+Output file: ../robot/ik_based/pkl/007050.pkl
+Robot type: unitree_g1
+Processing time: 5.24 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.90s
+  Step 2 - Align FPS:         0.79s
+  Step 3 - Init Retarget:     0.25s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.25s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:52 ===
+File index: 007050
+File number: 18/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_16_stageii.npz
+Output file: ../robot/ik_based/pkl/007050.pkl
+Processing time: 5.24 seconds
+Total file time: 5.42 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:02:57 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_17_stageii.npz
+Output file: ../robot/ik_based/pkl/007051.pkl
+Robot type: unitree_g1
+Processing time: 5.39 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.88s
+  Step 2 - Align FPS:         0.89s
+  Step 3 - Init Retarget:     0.21s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.37s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:02:58 ===
+File index: 007051
+File number: 19/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_17_stageii.npz
+Output file: ../robot/ik_based/pkl/007051.pkl
+Processing time: 5.39 seconds
+Total file time: 5.59 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_18_stageii.npz
+Output file: ../robot/ik_based/pkl/007052.pkl
+Robot type: unitree_g1
+Processing time: 6.34 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.89s
+  Step 2 - Align FPS:         0.89s
+  Step 3 - Init Retarget:     0.16s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    4.36s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:04 ===
+File index: 007052
+File number: 20/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_18_stageii.npz
+Output file: ../robot/ik_based/pkl/007052.pkl
+Processing time: 6.34 seconds
+Total file time: 6.53 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:09 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_19_stageii.npz
+Output file: ../robot/ik_based/pkl/007053.pkl
+Robot type: unitree_g1
+Processing time: 5.08 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.88s
+  Step 2 - Align FPS:         0.75s
+  Step 3 - Init Retarget:     0.27s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.15s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:09 ===
+File index: 007053
+File number: 21/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_19_stageii.npz
+Output file: ../robot/ik_based/pkl/007053.pkl
+Processing time: 5.08 seconds
+Total file time: 5.25 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:15 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_20_stageii.npz
+Output file: ../robot/ik_based/pkl/007054.pkl
+Robot type: unitree_g1
+Processing time: 5.23 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.88s
+  Step 2 - Align FPS:         0.80s
+  Step 3 - Init Retarget:     0.20s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.31s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:15 ===
+File index: 007054
+File number: 22/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_20_stageii.npz
+Output file: ../robot/ik_based/pkl/007054.pkl
+Processing time: 5.23 seconds
+Total file time: 5.41 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:21 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_21_stageii.npz
+Output file: ../robot/ik_based/pkl/007055.pkl
+Robot type: unitree_g1
+Processing time: 6.02 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.89s
+  Step 2 - Align FPS:         0.89s
+  Step 3 - Init Retarget:     0.16s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    4.04s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:21 ===
+File index: 007055
+File number: 23/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_21_stageii.npz
+Output file: ../robot/ik_based/pkl/007055.pkl
+Processing time: 6.02 seconds
+Total file time: 6.23 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_22_stageii.npz
+Output file: ../robot/ik_based/pkl/007056.pkl
+Robot type: unitree_g1
+Processing time: 7.74 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.91s
+  Step 2 - Align FPS:         0.95s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    5.57s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:29 ===
+File index: 007056
+File number: 24/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_22_stageii.npz
+Output file: ../robot/ik_based/pkl/007056.pkl
+Processing time: 7.74 seconds
+Total file time: 7.93 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:34 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_23_stageii.npz
+Output file: ../robot/ik_based/pkl/007057.pkl
+Robot type: unitree_g1
+Processing time: 5.37 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.87s
+  Step 2 - Align FPS:         0.79s
+  Step 3 - Init Retarget:     0.19s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.48s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:35 ===
+File index: 007057
+File number: 25/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_23_stageii.npz
+Output file: ../robot/ik_based/pkl/007057.pkl
+Processing time: 5.37 seconds
+Total file time: 5.55 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_24_stageii.npz
+Output file: ../robot/ik_based/pkl/007058.pkl
+Robot type: unitree_g1
+Processing time: 5.34 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.87s
+  Step 2 - Align FPS:         0.82s
+  Step 3 - Init Retarget:     0.16s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.44s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:40 ===
+File index: 007058
+File number: 26/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_24_stageii.npz
+Output file: ../robot/ik_based/pkl/007058.pkl
+Processing time: 5.34 seconds
+Total file time: 5.52 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:44 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_25_stageii.npz
+Output file: ../robot/ik_based/pkl/007059.pkl
+Robot type: unitree_g1
+Processing time: 4.27 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.83s
+  Step 2 - Align FPS:         0.66s
+  Step 3 - Init Retarget:     0.17s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    2.58s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:44 ===
+File index: 007059
+File number: 27/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_25_stageii.npz
+Output file: ../robot/ik_based/pkl/007059.pkl
+Processing time: 4.27 seconds
+Total file time: 4.43 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_26_stageii.npz
+Output file: ../robot/ik_based/pkl/007060.pkl
+Robot type: unitree_g1
+Processing time: 7.38 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.93s
+  Step 2 - Align FPS:         1.11s
+  Step 3 - Init Retarget:     0.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    5.04s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:52 ===
+File index: 007060
+File number: 28/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_26_stageii.npz
+Output file: ../robot/ik_based/pkl/007060.pkl
+Processing time: 7.38 seconds
+Total file time: 7.60 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:03:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_27_stageii.npz
+Output file: ../robot/ik_based/pkl/007061.pkl
+Robot type: unitree_g1
+Processing time: 5.90 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.91s
+  Step 2 - Align FPS:         0.95s
+  Step 3 - Init Retarget:     0.19s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.81s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:03:58 ===
+File index: 007061
+File number: 29/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_27_stageii.npz
+Output file: ../robot/ik_based/pkl/007061.pkl
+Processing time: 5.90 seconds
+Total file time: 6.10 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:04:01 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_28_stageii.npz
+Output file: ../robot/ik_based/pkl/007062.pkl
+Robot type: unitree_g1
+Processing time: 3.31 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.76s
+  Step 2 - Align FPS:         0.46s
+  Step 3 - Init Retarget:     0.17s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    1.87s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:04:02 ===
+File index: 007062
+File number: 30/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_28_stageii.npz
+Output file: ../robot/ik_based/pkl/007062.pkl
+Processing time: 3.31 seconds
+Total file time: 3.45 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 11:04:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_29_stageii.npz
+Output file: ../robot/ik_based/pkl/007063.pkl
+Robot type: unitree_g1
+Processing time: 4.79 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        0.84s
+  Step 2 - Align FPS:         0.74s
+  Step 3 - Init Retarget:     0.16s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    3.01s
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.02s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== FILE SUCCESS - 2025-10-14 11:04:07 ===
+File index: 007063
+File number: 31/31
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/79/79_29_stageii.npz
+Output file: ../robot/ik_based/pkl/007063.pkl
+Processing time: 4.79 seconds
+Total file time: 4.95 seconds
+Status: SUCCESS
+==================================================
+
+=== FINAL STATISTICS - 2025-10-14 11:04:07 ===
+Total files processed: 31
+Successful: 30
+Failed: 1
+单纯加每个文件处理时间累加，但这是并行运算, Total processing time: 161.82 seconds
+真正的程序运行时间 Total execution time: 167.37 seconds
+Average processing time per file: 5.39 seconds
+==================================================

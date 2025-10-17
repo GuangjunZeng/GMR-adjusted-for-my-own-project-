@@ -1,0 +1,37 @@
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 22:42:48 ===
+File index: 017755
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/WEIZMANN/70/Slow_StraightShort(4)_stageii.npz
+Output file: ../robot/ik_based/pkl/017755.pkl
+Status: SKIPPED (ALREADY EXISTS) - NO PROCESSING PERFORMED
+==================================================
+
+=== ERROR LOG - 2025-10-14 22:42:49 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/WEIZMANN/70/male_stagei.npz
+Output file: ../robot/ik_based/pkl/017756.pkl
+Robot type: unitree_g1
+Processing time: 1.21 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== FILE FAILURE - 2025-10-14 22:42:49 ===
+File index: 017756
+File number: 2/2
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/WEIZMANN/70/male_stagei.npz
+Output file: ../robot/ik_based/pkl/017756.pkl
+Processing time: 1.21 seconds
+Total file time: 1.41 seconds
+Status: FAILED
+==================================================
+
+=== FINAL STATISTICS - 2025-10-14 22:42:49 ===
+Total files processed: 2
+Successful: 1
+Failed: 1
+单纯加每个文件处理时间累加，但这是并行运算, Total processing time: 1.21 seconds
+真正的程序运行时间 Total execution time: 1.43 seconds
+Average processing time per file: 1.21 seconds
+Average frames per file: 0.0 frames (0 files with frames)
+Total frames processed: 0 frames
+==================================================

@@ -1,0 +1,218 @@
+
+=== ERROR LOG - 2025-10-13 23:20:03 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006043.pkl
+Robot type: unitree_g1
+Processing time: 7.34 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:25:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_41_stageii.npz
+Output file: ../robot/ik_based/pkl/006041.pkl
+Robot type: unitree_g1
+Processing time: 339.94 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:25:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_42_stageii.npz
+Output file: ../robot/ik_based/pkl/006042.pkl
+Robot type: unitree_g1
+Processing time: 343.99 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:29:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_35_stageii.npz
+Output file: ../robot/ik_based/pkl/006035.pkl
+Robot type: unitree_g1
+Processing time: 575.14 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:30:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_38_stageii.npz
+Output file: ../robot/ik_based/pkl/006038.pkl
+Robot type: unitree_g1
+Processing time: 635.19 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:30:50 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_36_stageii.npz
+Output file: ../robot/ik_based/pkl/006036.pkl
+Robot type: unitree_g1
+Processing time: 654.93 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:30:51 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_37_stageii.npz
+Output file: ../robot/ik_based/pkl/006037.pkl
+Robot type: unitree_g1
+Processing time: 656.42 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:31:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_33_stageii.npz
+Output file: ../robot/ik_based/pkl/006033.pkl
+Robot type: unitree_g1
+Processing time: 718.49 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:32:49 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_34_stageii.npz
+Output file: ../robot/ik_based/pkl/006034.pkl
+Robot type: unitree_g1
+Processing time: 774.05 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:37:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_14_stageii.npz
+Output file: ../robot/ik_based/pkl/006014.pkl
+Robot type: unitree_g1
+Processing time: 1030.93 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:37:14 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_15_stageii.npz
+Output file: ../robot/ik_based/pkl/006015.pkl
+Robot type: unitree_g1
+Processing time: 1038.87 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:37:36 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_16_stageii.npz
+Output file: ../robot/ik_based/pkl/006016.pkl
+Robot type: unitree_g1
+Processing time: 1061.05 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:37:50 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_30_stageii.npz
+Output file: ../robot/ik_based/pkl/006030.pkl
+Robot type: unitree_g1
+Processing time: 1074.52 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:39:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_31_stageii.npz
+Output file: ../robot/ik_based/pkl/006031.pkl
+Robot type: unitree_g1
+Processing time: 1170.58 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:40:32 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_26_stageii.npz
+Output file: ../robot/ik_based/pkl/006026.pkl
+Robot type: unitree_g1
+Processing time: 1236.82 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:40:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_23_stageii.npz
+Output file: ../robot/ik_based/pkl/006023.pkl
+Robot type: unitree_g1
+Processing time: 1239.52 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:40:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_24_stageii.npz
+Output file: ../robot/ik_based/pkl/006024.pkl
+Robot type: unitree_g1
+Processing time: 1244.62 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:40:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_18_stageii.npz
+Output file: ../robot/ik_based/pkl/006018.pkl
+Robot type: unitree_g1
+Processing time: 1250.75 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:40:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_25_stageii.npz
+Output file: ../robot/ik_based/pkl/006025.pkl
+Robot type: unitree_g1
+Processing time: 1253.16 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:41:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_22_stageii.npz
+Output file: ../robot/ik_based/pkl/006022.pkl
+Robot type: unitree_g1
+Processing time: 1324.10 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_28_stageii.npz
+Output file: ../robot/ik_based/pkl/006028.pkl
+Robot type: unitree_g1
+Processing time: 1364.64 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:43 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_27_stageii.npz
+Output file: ../robot/ik_based/pkl/006027.pkl
+Robot type: unitree_g1
+Processing time: 1367.63 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:45 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_21_stageii.npz
+Output file: ../robot/ik_based/pkl/006021.pkl
+Robot type: unitree_g1
+Processing time: 1370.12 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:50 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_29_stageii.npz
+Output file: ../robot/ik_based/pkl/006029.pkl
+Robot type: unitree_g1
+Processing time: 1374.76 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_20_stageii.npz
+Output file: ../robot/ik_based/pkl/006020.pkl
+Robot type: unitree_g1
+Processing time: 1377.18 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-13 23:42:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/13/13_17_stageii.npz
+Output file: ../robot/ik_based/pkl/006017.pkl
+Robot type: unitree_g1
+Processing time: 1380.94 seconds
+Status: SUCCESS
+==================================================
+
+=== FINAL STATISTICS - 2025-10-13 23:42:57 ===
+Total files processed: 31
+Successful: 30
+Failed: 1
+Total processing time: 25865.68 seconds
+Total execution time: 1382.19 seconds
+Average processing time per file: 862.19 seconds
+==================================================

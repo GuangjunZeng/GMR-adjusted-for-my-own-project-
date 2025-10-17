@@ -1,0 +1,2694 @@
+
+=== ERROR LOG - 2025-10-14 19:57:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/EKUT/300/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008219.pkl
+Robot type: unitree_g1
+Processing time: 1.58 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:57:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/EKUT/234/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008011.pkl
+Robot type: unitree_g1
+Processing time: 1.85 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:57:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/EKUT/265/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008083.pkl
+Robot type: unitree_g1
+Processing time: 2.44 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:57:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/aita/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008280.pkl
+Robot type: unitree_g1
+Processing time: 2.18 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:57:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/EKUT/265/MTR03_stageii.npz
+Output file: ../robot/ik_based/pkl/008024.pkl
+Robot type: unitree_g1
+Processing time: 3.26 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 3.26s
+Error message: need at least one array to stack
+Error type: ValueError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:58:01 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/hamada/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008413.pkl
+Robot type: unitree_g1
+Processing time: 1.99 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:58:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/female_stagei.npz
+Output file: ../robot/ik_based/pkl/008538.pkl
+Robot type: unitree_g1
+Processing time: 2.19 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:58:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/frederic/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008335.pkl
+Robot type: unitree_g1
+Processing time: 2.67 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 19:58:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/ichige/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008509.pkl
+Robot type: unitree_g1
+Processing time: 3.06 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:01:32 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-31-ok-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008553.pkl
+Robot type: unitree_g1
+Processing time: 209.92 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.56s
+  Step 2 - Align FPS:         32.41s
+  Step 3 - Init Retarget:     2.55s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    160.45s (avg: 0.178s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.04s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:01:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-25-magic-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008550.pkl
+Robot type: unitree_g1
+Processing time: 217.52 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        12.97s
+  Step 2 - Align FPS:         32.95s
+  Step 3 - Init Retarget:     1.85s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    168.43s (avg: 0.187s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.84s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:01:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-30-fxxk-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008552.pkl
+Robot type: unitree_g1
+Processing time: 217.25 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        12.00s
+  Step 2 - Align FPS:         34.84s
+  Step 3 - Init Retarget:     0.52s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    168.57s (avg: 0.187s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.67s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:01:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-29-pantomime-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008551.pkl
+Robot type: unitree_g1
+Processing time: 219.97 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.46s
+  Step 2 - Align FPS:         32.01s
+  Step 3 - Init Retarget:     3.33s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    172.39s (avg: 0.192s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.26s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:03:38 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-24-matrix-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008549.pkl
+Robot type: unitree_g1
+Processing time: 338.29 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        6.62s
+  Step 2 - Align FPS:         35.30s
+  Step 3 - Init Retarget:     1.57s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    292.54s (avg: 0.325s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.22s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:05:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-34-peace-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008556.pkl
+Robot type: unitree_g1
+Processing time: 255.20 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.67s
+  Step 2 - Align FPS:         30.21s
+  Step 3 - Init Retarget:     0.57s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    213.87s (avg: 0.238s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 0.47s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:06:25 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-33-watch_here-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008555.pkl
+Robot type: unitree_g1
+Processing time: 291.73 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.69s
+  Step 2 - Align FPS:         30.98s
+  Step 3 - Init Retarget:     0.70s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    245.84s (avg: 0.273s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.37s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:06:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-37-gay-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008558.pkl
+Robot type: unitree_g1
+Processing time: 299.54 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.24s
+  Step 2 - Align FPS:         26.11s
+  Step 3 - Init Retarget:     1.01s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    256.95s (avg: 0.285s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.01s
+  Step 8 - Save Data:         0.08s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:06:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-38-hand_language-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008559.pkl
+Robot type: unitree_g1
+Processing time: 200.42 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.37s
+  Step 2 - Align FPS:         16.36s
+  Step 3 - Init Retarget:     0.53s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    171.04s (avg: 0.190s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.21s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:07:11 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-35-west_side-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008557.pkl
+Robot type: unitree_g1
+Processing time: 329.18 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.93s
+  Step 2 - Align FPS:         28.15s
+  Step 3 - Init Retarget:     2.55s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    287.51s (avg: 0.319s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.27s
+  Step 8 - Save Data:         0.05s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:09:18 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-42-hung_over-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008563.pkl
+Robot type: unitree_g1
+Processing time: 200.62 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.81s
+  Step 2 - Align FPS:         16.98s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    171.92s (avg: 0.191s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.32s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:10:15 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-43-brush_teeth-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008564.pkl
+Robot type: unitree_g1
+Processing time: 229.28 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.13s
+  Step 2 - Align FPS:         16.78s
+  Step 3 - Init Retarget:     0.59s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    200.53s (avg: 0.223s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.17s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:10:41 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-47-big_drum-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008567.pkl
+Robot type: unitree_g1
+Processing time: 209.65 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        13.19s
+  Step 2 - Align FPS:         19.13s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    175.18s (avg: 0.195s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.77s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:11:00 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-46-vomit_of_blood-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008566.pkl
+Robot type: unitree_g1
+Processing time: 240.46 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        13.28s
+  Step 2 - Align FPS:         21.33s
+  Step 3 - Init Retarget:     0.55s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    203.40s (avg: 0.226s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.64s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:11:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-45-feel_dizzy_-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008565.pkl
+Robot type: unitree_g1
+Processing time: 296.63 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.88s
+  Step 2 - Align FPS:         18.66s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    264.40s (avg: 0.294s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.23s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:13:20 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/gesture_etc-49-taiko_under-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008569.pkl
+Robot type: unitree_g1
+Processing time: 241.32 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.35s
+  Step 2 - Align FPS:         19.32s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    209.57s (avg: 0.233s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.35s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:13:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/greeting-03-election-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008572.pkl
+Robot type: unitree_g1
+Processing time: 223.13 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.81s
+  Step 2 - Align FPS:         18.41s
+  Step 3 - Init Retarget:     0.43s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    192.32s (avg: 0.214s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.15s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:14:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/greeting-04-salute_(head)-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008573.pkl
+Robot type: unitree_g1
+Processing time: 223.28 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.64s
+  Step 2 - Align FPS:         15.77s
+  Step 3 - Init Retarget:     0.73s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    195.99s (avg: 0.218s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.65s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:14:31 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/greeting-05-salute_(chest)-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008574.pkl
+Robot type: unitree_g1
+Processing time: 209.21 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.69s
+  Step 2 - Align FPS:         14.90s
+  Step 3 - Init Retarget:     0.46s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    181.27s (avg: 0.201s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 2.17s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:15:18 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/greeting-07-bow-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008575.pkl
+Robot type: unitree_g1
+Processing time: 216.97 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.74s
+  Step 2 - Align FPS:         17.89s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    188.19s (avg: 0.209s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.29s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:17:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/jump-01-normal-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008578.pkl
+Robot type: unitree_g1
+Processing time: 224.66 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.97s
+  Step 2 - Align FPS:         21.26s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    191.78s (avg: 0.213s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.15s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:17:55 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/jump-02-leap-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008579.pkl
+Robot type: unitree_g1
+Processing time: 235.07 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.12s
+  Step 2 - Align FPS:         19.50s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    202.90s (avg: 0.225s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.13s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:18:45 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/jump-04-horizontal-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008581.pkl
+Robot type: unitree_g1
+Processing time: 253.35 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.99s
+  Step 2 - Align FPS:         20.21s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    220.35s (avg: 0.245s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.23s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:18:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/jump-03-vertical-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008580.pkl
+Robot type: unitree_g1
+Processing time: 261.65 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.65s
+  Step 2 - Align FPS:         21.34s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    229.64s (avg: 0.255s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.88s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:19:44 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/jump-11-warmup-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008582.pkl
+Robot type: unitree_g1
+Processing time: 264.54 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.01s
+  Step 2 - Align FPS:         17.30s
+  Step 3 - Init Retarget:     0.50s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    235.37s (avg: 0.262s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.25s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:21:14 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pain-03-toothache-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008585.pkl
+Robot type: unitree_g1
+Processing time: 247.44 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.29s
+  Step 2 - Align FPS:         21.98s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    213.81s (avg: 0.238s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.06s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:22:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pain-07-arthritic-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008586.pkl
+Robot type: unitree_g1
+Processing time: 289.91 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.64s
+  Step 2 - Align FPS:         18.01s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    259.62s (avg: 0.288s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.13s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:22:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-03-open_leg-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008589.pkl
+Robot type: unitree_g1
+Processing time: 238.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.97s
+  Step 2 - Align FPS:         17.36s
+  Step 3 - Init Retarget:     0.49s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    208.31s (avg: 0.231s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.01s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:23:14 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-02-rest-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008588.pkl
+Robot type: unitree_g1
+Processing time: 268.61 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.37s
+  Step 2 - Align FPS:         22.93s
+  Step 3 - Init Retarget:     1.02s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    234.70s (avg: 0.261s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.07s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:24:25 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-04-drank-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008590.pkl
+Robot type: unitree_g1
+Processing time: 280.74 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.63s
+  Step 2 - Align FPS:         18.81s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    249.71s (avg: 0.277s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.12s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:25:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-06-hangon-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008592.pkl
+Robot type: unitree_g1
+Processing time: 282.74 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.64s
+  Step 2 - Align FPS:         17.71s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    254.33s (avg: 0.283s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.81s
+  Step 8 - Save Data:         0.05s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:27:08 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-10-recall_blackmagic-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008595.pkl
+Robot type: unitree_g1
+Processing time: 260.75 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.20s
+  Step 2 - Align FPS:         21.87s
+  Step 3 - Init Retarget:     0.33s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    228.22s (avg: 0.254s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.14s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:27:49 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-12-body_building-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008597.pkl
+Robot type: unitree_g1
+Processing time: 273.87 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.14s
+  Step 2 - Align FPS:         15.20s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    244.73s (avg: 0.272s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.29s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:28:21 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-11-bended_knees-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008596.pkl
+Robot type: unitree_g1
+Processing time: 332.29 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.45s
+  Step 2 - Align FPS:         23.28s
+  Step 3 - Init Retarget:     0.33s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    296.99s (avg: 0.330s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.16s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:28:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-13-model-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008598.pkl
+Robot type: unitree_g1
+Processing time: 261.52 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        7.73s
+  Step 2 - Align FPS:         20.66s
+  Step 3 - Init Retarget:     0.66s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    230.55s (avg: 0.256s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.06s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:30:17 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-17-one_leg-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008601.pkl
+Robot type: unitree_g1
+Processing time: 258.17 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.73s
+  Step 2 - Align FPS:         18.88s
+  Step 3 - Init Retarget:     0.49s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    228.11s (avg: 0.253s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.17s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:30:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/pose-20-zombee-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008603.pkl
+Robot type: unitree_g1
+Processing time: 206.77 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.17s
+  Step 2 - Align FPS:         17.05s
+  Step 3 - Init Retarget:     0.43s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    177.77s (avg: 0.198s/frame)
+  Step 6 - Convert Arrays:    0.03s
+  Step 7 - Forward Kinematics: 1.40s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:31:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/sitdown_standup-03-chair_back-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008604.pkl
+Robot type: unitree_g1
+Processing time: 230.45 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.64s
+  Step 2 - Align FPS:         16.42s
+  Step 3 - Init Retarget:     0.34s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    201.97s (avg: 0.224s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.04s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:32:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/tennis-02-forehand_lob-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008606.pkl
+Robot type: unitree_g1
+Processing time: 259.59 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.35s
+  Step 2 - Align FPS:         19.99s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    227.58s (avg: 0.253s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.20s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:32:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/tennis-06-forehand_smash-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008607.pkl
+Robot type: unitree_g1
+Processing time: 243.26 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.95s
+  Step 2 - Align FPS:         15.91s
+  Step 3 - Init Retarget:     0.56s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    214.01s (avg: 0.238s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.88s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:34:10 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/tennis-19-catch_overhead-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008609.pkl
+Robot type: unitree_g1
+Processing time: 231.82 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.53s
+  Step 2 - Align FPS:         14.77s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    205.11s (avg: 0.228s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 1.12s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:35:17 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/throw_toss-09-shotput-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008610.pkl
+Robot type: unitree_g1
+Processing time: 281.17 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.47s
+  Step 2 - Align FPS:         17.69s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    251.34s (avg: 0.279s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.08s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:35:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/throw_toss-13-pass_to_right_light-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008612.pkl
+Robot type: unitree_g1
+Processing time: 252.74 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.81s
+  Step 2 - Align FPS:         17.58s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    224.08s (avg: 0.249s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.95s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:37:25 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/throw_toss-17-pass_to_back_light-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008614.pkl
+Robot type: unitree_g1
+Processing time: 282.63 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.56s
+  Step 2 - Align FPS:         17.39s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    252.82s (avg: 0.281s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.67s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:37:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/throw_toss-18-pass_to_back_heavy-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008615.pkl
+Robot type: unitree_g1
+Processing time: 293.04 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        12.42s
+  Step 2 - Align FPS:         20.28s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    256.86s (avg: 0.285s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.75s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:38:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/throw_toss-19-pass_to_front_light-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008616.pkl
+Robot type: unitree_g1
+Processing time: 255.46 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.66s
+  Step 2 - Align FPS:         19.29s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    225.05s (avg: 0.250s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.89s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:39:16 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/turn-01-call-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008618.pkl
+Robot type: unitree_g1
+Processing time: 237.31 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.67s
+  Step 2 - Align FPS:         18.79s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    207.89s (avg: 0.231s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.81s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:40:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/turn-02-look_around-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008619.pkl
+Robot type: unitree_g1
+Processing time: 250.90 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.29s
+  Step 2 - Align FPS:         18.31s
+  Step 3 - Init Retarget:     0.34s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    221.16s (avg: 0.246s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.93s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:41:16 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/walk-24-listless-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008623.pkl
+Robot type: unitree_g1
+Processing time: 209.33 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.17s
+  Step 2 - Align FPS:         17.08s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    179.87s (avg: 0.203s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.70s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:41:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/walk-26-exhausted-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008624.pkl
+Robot type: unitree_g1
+Processing time: 204.89 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.31s
+  Step 2 - Align FPS:         16.91s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    177.57s (avg: 0.200s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 0.48s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:42:57 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/walk-16-push_by_hand-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008622.pkl
+Robot type: unitree_g1
+Processing time: 330.99 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.01s
+  Step 2 - Align FPS:         17.15s
+  Step 3 - Init Retarget:     0.34s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    302.67s (avg: 0.337s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.79s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:43:03 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kaiwa/walk-29-look_down-kaiwa_stageii.npz
+Output file: ../robot/ik_based/pkl/008626.pkl
+Robot type: unitree_g1
+Processing time: 226.38 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.90s
+  Step 2 - Align FPS:         20.42s
+  Step 3 - Init Retarget:     0.55s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    193.91s (avg: 0.219s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.81s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:44:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-01-dodge-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008627.pkl
+Robot type: unitree_g1
+Processing time: 237.40 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.23s
+  Step 2 - Align FPS:         18.21s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    206.58s (avg: 0.232s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.98s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:44:57 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-04-damage_right_leg-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008630.pkl
+Robot type: unitree_g1
+Processing time: 219.69 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.52s
+  Step 2 - Align FPS:         20.15s
+  Step 3 - Init Retarget:     0.55s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    188.37s (avg: 0.211s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.65s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:45:47 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-05-damage_right_arm-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008631.pkl
+Robot type: unitree_g1
+Processing time: 233.94 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.26s
+  Step 2 - Align FPS:         18.16s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    205.04s (avg: 0.228s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.01s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:46:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-07-damage_left_arm-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008633.pkl
+Robot type: unitree_g1
+Processing time: 229.85 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.17s
+  Step 2 - Align FPS:         26.06s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    192.87s (avg: 0.214s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 1.23s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:46:50 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-08-damage_rightfoot-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008634.pkl
+Robot type: unitree_g1
+Processing time: 226.00 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        12.81s
+  Step 2 - Align FPS:         20.30s
+  Step 3 - Init Retarget:     0.34s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    190.22s (avg: 0.213s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.36s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:47:47 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-10-spasm-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008635.pkl
+Robot type: unitree_g1
+Processing time: 222.26 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.83s
+  Step 2 - Align FPS:         18.59s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    191.60s (avg: 0.215s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.88s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:48:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-12-twist_foot-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008637.pkl
+Robot type: unitree_g1
+Processing time: 222.16 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.16s
+  Step 2 - Align FPS:         18.53s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    192.03s (avg: 0.213s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.09s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:49:22 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/accident-14-dodge_turn_down-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008639.pkl
+Robot type: unitree_g1
+Processing time: 214.69 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.37s
+  Step 2 - Align FPS:         17.45s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    186.28s (avg: 0.209s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.50s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:50:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/gesture_etc-36-shame-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008641.pkl
+Robot type: unitree_g1
+Processing time: 230.16 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.13s
+  Step 2 - Align FPS:         25.58s
+  Step 3 - Init Retarget:     0.46s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    194.15s (avg: 0.199s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.89s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:52:21 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/gesture_etc-41-mosh-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008643.pkl
+Robot type: unitree_g1
+Processing time: 272.85 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.57s
+  Step 2 - Align FPS:         21.68s
+  Step 3 - Init Retarget:     0.52s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    238.57s (avg: 0.237s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.08s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:52:33 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/gesture_etc-40-head_banging-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008642.pkl
+Robot type: unitree_g1
+Processing time: 342.08 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.52s
+  Step 2 - Align FPS:         27.26s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    304.07s (avg: 0.309s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.92s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:53:03 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/gesture_etc-43-brush_teeth-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008644.pkl
+Robot type: unitree_g1
+Processing time: 261.89 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.53s
+  Step 2 - Align FPS:         16.09s
+  Step 3 - Init Retarget:     0.61s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    233.94s (avg: 0.233s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.88s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:53:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/gesture_etc-45-feel_dizzy_-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008645.pkl
+Robot type: unitree_g1
+Processing time: 255.49 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.37s
+  Step 2 - Align FPS:         22.37s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    220.54s (avg: 0.222s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.88s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:54:43 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/greeting-01-hello-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008648.pkl
+Robot type: unitree_g1
+Processing time: 242.64 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.42s
+  Step 2 - Align FPS:         21.58s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    209.07s (avg: 0.209s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.14s
+  Step 8 - Save Data:         0.06s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:56:12 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/greeting-05-salute_(chest)-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008651.pkl
+Robot type: unitree_g1
+Processing time: 229.70 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.16s
+  Step 2 - Align FPS:         23.88s
+  Step 3 - Init Retarget:     0.84s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    194.17s (avg: 0.191s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.71s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:56:27 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/greeting-07-bow-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008652.pkl
+Robot type: unitree_g1
+Processing time: 233.63 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        13.21s
+  Step 2 - Align FPS:         21.60s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    194.38s (avg: 0.193s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.76s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:56:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/greeting-08-shakehands-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008653.pkl
+Robot type: unitree_g1
+Processing time: 234.71 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.66s
+  Step 2 - Align FPS:         21.75s
+  Step 3 - Init Retarget:     0.33s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    199.95s (avg: 0.195s/frame)
+  Step 6 - Convert Arrays:    0.11s
+  Step 7 - Forward Kinematics: 0.38s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 20:57:36 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/greeting-09-certificate-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008654.pkl
+Robot type: unitree_g1
+Processing time: 235.95 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.15s
+  Step 2 - Align FPS:         23.63s
+  Step 3 - Init Retarget:     0.46s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    201.86s (avg: 0.200s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.86s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:00:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/jump-10-rope_long-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008658.pkl
+Robot type: unitree_g1
+Processing time: 241.24 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        12.27s
+  Step 2 - Align FPS:         21.66s
+  Step 3 - Init Retarget:     0.28s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    204.80s (avg: 0.199s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.16s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== ERROR LOG - 2025-10-14 21:00:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/male_stagei.npz
+Output file: ../robot/ik_based/pkl/008661.pkl
+Robot type: unitree_g1
+Processing time: 8.30 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:01:55 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/jump-07-rope_double-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008655.pkl
+Robot type: unitree_g1
+Processing time: 431.18 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.31s
+  Step 2 - Align FPS:         19.64s
+  Step 3 - Init Retarget:     0.29s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    400.12s (avg: 0.407s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.27s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:02:58 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/jump-12-boxer_step-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008659.pkl
+Robot type: unitree_g1
+Processing time: 357.82 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.29s
+  Step 2 - Align FPS:         21.14s
+  Step 3 - Init Retarget:     0.33s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    325.55s (avg: 0.327s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.49s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:03:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/jump-13-matrix-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008660.pkl
+Robot type: unitree_g1
+Processing time: 350.07 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.01s
+  Step 2 - Align FPS:         21.18s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    318.84s (avg: 0.317s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 0.38s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:03:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/jump-09-rope_cross-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008657.pkl
+Robot type: unitree_g1
+Processing time: 465.29 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.59s
+  Step 2 - Align FPS:         18.04s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    434.86s (avg: 0.432s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.32s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:05:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/pose-11-bended_knees-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008666.pkl
+Robot type: unitree_g1
+Processing time: 263.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.58s
+  Step 2 - Align FPS:         18.87s
+  Step 3 - Init Retarget:     0.44s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    233.11s (avg: 0.261s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.10s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:05:24 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/pose-14-look_up-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008669.pkl
+Robot type: unitree_g1
+Processing time: 208.62 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.47s
+  Step 2 - Align FPS:         18.38s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    177.39s (avg: 0.199s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.70s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:07:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/pose-17-one_leg-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008672.pkl
+Robot type: unitree_g1
+Processing time: 213.19 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.51s
+  Step 2 - Align FPS:         18.38s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    183.02s (avg: 0.205s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.91s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:07:28 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/pose-16-handstand-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008671.pkl
+Robot type: unitree_g1
+Processing time: 268.85 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.27s
+  Step 2 - Align FPS:         21.03s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    236.41s (avg: 0.265s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.97s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:07:49 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/pose-20-zombee-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008674.pkl
+Robot type: unitree_g1
+Processing time: 229.10 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.82s
+  Step 2 - Align FPS:         21.18s
+  Step 3 - Init Retarget:     0.67s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    195.05s (avg: 0.219s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.46s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:09:20 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/sitdown_standup-01-impolite-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008675.pkl
+Robot type: unitree_g1
+Processing time: 255.84 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        14.03s
+  Step 2 - Align FPS:         23.63s
+  Step 3 - Init Retarget:     0.43s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    215.82s (avg: 0.219s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.03s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:10:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/sitdown_standup-03-chair_back-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008676.pkl
+Robot type: unitree_g1
+Processing time: 322.64 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.74s
+  Step 2 - Align FPS:         22.20s
+  Step 3 - Init Retarget:     0.44s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    288.51s (avg: 0.291s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.96s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:12:11 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/sitdown_standup-14-hold_chair-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008680.pkl
+Robot type: unitree_g1
+Processing time: 261.25 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.37s
+  Step 2 - Align FPS:         20.68s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    227.70s (avg: 0.228s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.06s
+  Step 8 - Save Data:         0.10s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:12:13 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/sitdown_standup-13-applause-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008679.pkl
+Robot type: unitree_g1
+Processing time: 284.80 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.59s
+  Step 2 - Align FPS:         17.85s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    254.10s (avg: 0.255s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.95s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:12:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/sitdown_standup-11-one_knee_drawn_up-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008678.pkl
+Robot type: unitree_g1
+Processing time: 332.82 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.54s
+  Step 2 - Align FPS:         19.59s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    298.69s (avg: 0.300s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.42s
+  Step 8 - Save Data:         0.14s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:15:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-03-sneak-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008685.pkl
+Robot type: unitree_g1
+Processing time: 252.39 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.80s
+  Step 2 - Align FPS:         17.03s
+  Step 3 - Init Retarget:     0.43s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    222.78s (avg: 0.243s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.22s
+  Step 8 - Save Data:         0.06s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:15:05 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-01-normal-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008683.pkl
+Robot type: unitree_g1
+Processing time: 343.14 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.67s
+  Step 2 - Align FPS:         17.75s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    313.62s (avg: 0.344s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.84s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:17:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-07-moonwalk-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008689.pkl
+Robot type: unitree_g1
+Processing time: 265.74 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.80s
+  Step 2 - Align FPS:         22.85s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    229.95s (avg: 0.227s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.03s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:17:09 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-05-backward-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008687.pkl
+Robot type: unitree_g1
+Processing time: 297.40 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.19s
+  Step 2 - Align FPS:         23.76s
+  Step 3 - Init Retarget:     0.52s
+  Step 4 - Init Visualization: 0.02s
+  Step 5 - Process Frames:    263.67s (avg: 0.252s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.63s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:17:10 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-06-catwalk-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008688.pkl
+Robot type: unitree_g1
+Processing time: 295.75 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.42s
+  Step 2 - Align FPS:         23.18s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    262.41s (avg: 0.263s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.72s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:20:07 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-11-baggage_on_the_head-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008692.pkl
+Robot type: unitree_g1
+Processing time: 303.73 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.06s
+  Step 2 - Align FPS:         26.75s
+  Step 3 - Init Retarget:     0.34s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    266.27s (avg: 0.260s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.15s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:21:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-13-baggage_on_the_shoulder-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008693.pkl
+Robot type: unitree_g1
+Processing time: 360.69 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.60s
+  Step 2 - Align FPS:         27.41s
+  Step 3 - Init Retarget:     0.48s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    322.09s (avg: 0.322s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.19s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:21:24 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-17-push_by_back-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008697.pkl
+Robot type: unitree_g1
+Processing time: 253.13 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.12s
+  Step 2 - Align FPS:         27.76s
+  Step 3 - Init Retarget:     0.48s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    211.40s (avg: 0.209s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.84s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:21:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-16-push_by_hand-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008696.pkl
+Robot type: unitree_g1
+Processing time: 264.53 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        7.91s
+  Step 2 - Align FPS:         25.80s
+  Step 3 - Init Retarget:     0.31s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    228.98s (avg: 0.228s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.91s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== ERROR LOG - 2025-10-14 21:21:45 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/female_stagei.npz
+Output file: ../robot/ik_based/pkl/008704.pkl
+Robot type: unitree_g1
+Processing time: 9.45 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:22:41 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-15-pull-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008695.pkl
+Robot type: unitree_g1
+Processing time: 338.31 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.68s
+  Step 2 - Align FPS:         25.09s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    302.08s (avg: 0.332s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.15s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:23:51 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-16-dryer-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008707.pkl
+Robot type: unitree_g1
+Processing time: 68.95 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.30s
+  Step 2 - Align FPS:         5.72s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    52.74s (avg: 0.214s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.05s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:23:52 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kanno/walk-26-exhausted-kanno_stageii.npz
+Output file: ../robot/ik_based/pkl/008700.pkl
+Robot type: unitree_g1
+Processing time: 223.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.55s
+  Step 2 - Align FPS:         20.13s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    192.08s (avg: 0.191s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.75s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:24:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-04-set_4-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008705.pkl
+Robot type: unitree_g1
+Processing time: 160.52 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.32s
+  Step 2 - Align FPS:         7.78s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    140.80s (avg: 0.317s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.08s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:24:33 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/accident-02-dodge_fast-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008703.pkl
+Robot type: unitree_g1
+Processing time: 187.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.28s
+  Step 2 - Align FPS:         15.53s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    161.19s (avg: 0.209s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.87s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:24:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/accident-01-dodge-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008702.pkl
+Robot type: unitree_g1
+Processing time: 212.00 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.08s
+  Step 2 - Align FPS:         14.93s
+  Step 3 - Init Retarget:     0.44s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    184.89s (avg: 0.265s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 2.06s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:25:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-34-peace-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008712.pkl
+Robot type: unitree_g1
+Processing time: 97.41 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        6.66s
+  Step 2 - Align FPS:         9.15s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    79.31s (avg: 0.220s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.93s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:26:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-42-hung_over-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008715.pkl
+Robot type: unitree_g1
+Processing time: 142.43 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.89s
+  Step 2 - Align FPS:         15.78s
+  Step 3 - Init Retarget:     0.44s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    114.08s (avg: 0.212s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.17s
+  Step 8 - Save Data:         0.05s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:27:37 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-39-giant_baba-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008714.pkl
+Robot type: unitree_g1
+Processing time: 190.12 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.79s
+  Step 2 - Align FPS:         13.61s
+  Step 3 - Init Retarget:     0.63s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    166.36s (avg: 0.262s/frame)
+  Step 6 - Convert Arrays:    0.02s
+  Step 7 - Forward Kinematics: 0.38s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:28:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-35-west_side-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008713.pkl
+Robot type: unitree_g1
+Processing time: 251.70 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        6.73s
+  Step 2 - Align FPS:         13.96s
+  Step 3 - Init Retarget:     0.31s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    227.57s (avg: 0.377s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.63s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:28:12 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-51-cramp-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008717.pkl
+Robot type: unitree_g1
+Processing time: 161.80 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.46s
+  Step 2 - Align FPS:         9.42s
+  Step 3 - Init Retarget:     0.44s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    140.91s (avg: 0.299s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.85s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:28:19 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/gesture_etc-50-syuriken-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008716.pkl
+Robot type: unitree_g1
+Processing time: 218.72 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.01s
+  Step 2 - Align FPS:         16.70s
+  Step 3 - Init Retarget:     0.42s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    189.88s (avg: 0.230s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.78s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:29:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/greeting-03-election-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008720.pkl
+Robot type: unitree_g1
+Processing time: 164.49 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.72s
+  Step 2 - Align FPS:         14.24s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    139.28s (avg: 0.221s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.09s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:30:40 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/greeting-09-certificate-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008723.pkl
+Robot type: unitree_g1
+Processing time: 147.57 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.85s
+  Step 2 - Align FPS:         9.79s
+  Step 3 - Init Retarget:     0.48s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    127.57s (avg: 0.218s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.53s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:30:57 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/greeting-08-shakehands-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008722.pkl
+Robot type: unitree_g1
+Processing time: 171.46 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.87s
+  Step 2 - Align FPS:         14.88s
+  Step 3 - Init Retarget:     0.70s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    144.51s (avg: 0.211s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.38s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:32:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/greeting-04-salute_(head)-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008721.pkl
+Robot type: unitree_g1
+Processing time: 265.44 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.39s
+  Step 2 - Align FPS:         17.21s
+  Step 3 - Init Retarget:     0.65s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    237.41s (avg: 0.338s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.89s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:32:27 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/jump-02-leap-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008724.pkl
+Robot type: unitree_g1
+Processing time: 247.20 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.93s
+  Step 2 - Align FPS:         19.06s
+  Step 3 - Init Retarget:     0.41s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    214.24s (avg: 0.240s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.82s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:32:57 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/jump-13-matrix-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008728.pkl
+Robot type: unitree_g1
+Processing time: 120.13 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.08s
+  Step 2 - Align FPS:         9.39s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    99.17s (avg: 0.240s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.11s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:34:18 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/pose-01-normal-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008731.pkl
+Robot type: unitree_g1
+Processing time: 109.87 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.67s
+  Step 2 - Align FPS:         9.78s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    87.95s (avg: 0.190s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.07s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:34:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/pose-03-open_leg-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008733.pkl
+Robot type: unitree_g1
+Processing time: 109.89 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.20s
+  Step 2 - Align FPS:         7.08s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    92.10s (avg: 0.195s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.21s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:35:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/pain-02-stomachache-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008730.pkl
+Robot type: unitree_g1
+Processing time: 221.05 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.27s
+  Step 2 - Align FPS:         16.89s
+  Step 3 - Init Retarget:     0.37s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    191.26s (avg: 0.219s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.11s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:36:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/jump-05-rope_normal_run-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008726.pkl
+Robot type: unitree_g1
+Processing time: 416.87 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.45s
+  Step 2 - Align FPS:         16.79s
+  Step 3 - Init Retarget:     0.38s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    389.30s (avg: 0.436s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.90s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:36:45 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/pose-09-pray_buddhism-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008737.pkl
+Robot type: unitree_g1
+Processing time: 146.82 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.35s
+  Step 2 - Align FPS:         13.99s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    121.86s (avg: 0.180s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.52s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:37:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/sitdown_standup-01-impolite-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008739.pkl
+Robot type: unitree_g1
+Processing time: 184.98 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.65s
+  Step 2 - Align FPS:         14.60s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    159.82s (avg: 0.241s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 1.01s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:38:05 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/jump-08-rope_backward-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008727.pkl
+Robot type: unitree_g1
+Processing time: 444.37 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.39s
+  Step 2 - Align FPS:         17.46s
+  Step 3 - Init Retarget:     0.35s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    415.20s (avg: 0.465s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.79s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:38:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/sitdown_standup-11-one_knee_drawn_up-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008741.pkl
+Robot type: unitree_g1
+Processing time: 159.75 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.56s
+  Step 2 - Align FPS:         15.64s
+  Step 3 - Init Retarget:     0.39s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    133.08s (avg: 0.222s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 1.36s
+  Step 8 - Save Data:         0.03s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:39:55 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/throw_toss-17-pass_to_back_light-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008745.pkl
+Robot type: unitree_g1
+Processing time: 189.34 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.12s
+  Step 2 - Align FPS:         13.38s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    163.53s (avg: 0.274s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.73s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:39:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/throw_toss-10-javelin-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008744.pkl
+Robot type: unitree_g1
+Processing time: 198.52 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.27s
+  Step 2 - Align FPS:         14.56s
+  Step 3 - Init Retarget:     0.49s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    174.37s (avg: 0.266s/frame)
+  Step 6 - Convert Arrays:    0.05s
+  Step 7 - Forward Kinematics: 0.36s
+  Step 8 - Save Data:         0.00s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:41:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/turn-03-look_at-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008748.pkl
+Robot type: unitree_g1
+Processing time: 203.07 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.62s
+  Step 2 - Align FPS:         13.32s
+  Step 3 - Init Retarget:     0.36s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    166.36s (avg: 0.247s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.77s
+  Step 8 - Save Data:         0.07s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:42:09 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/turn-02-look_around-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008747.pkl
+Robot type: unitree_g1
+Processing time: 246.53 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.42s
+  Step 2 - Align FPS:         15.25s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    220.56s (avg: 0.294s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.34s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:43:48 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kawaguchi/turn-05-turn-kawaguchi_stageii.npz
+Output file: ../robot/ik_based/pkl/008749.pkl
+Robot type: unitree_g1
+Processing time: 321.10 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.61s
+  Step 2 - Align FPS:         13.40s
+  Step 3 - Init Retarget:     0.45s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    296.06s (avg: 0.403s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.85s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:48:37 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-11-hold_arms-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008751.pkl
+Robot type: unitree_g1
+Processing time: 517.32 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        13.54s
+  Step 2 - Align FPS:         93.76s
+  Step 3 - Init Retarget:     1.03s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    408.51s (avg: 0.413s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.27s
+  Step 8 - Save Data:         0.04s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:49:07 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-13-juggling_imaginary-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008753.pkl
+Robot type: unitree_g1
+Processing time: 416.49 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        28.02s
+  Step 2 - Align FPS:         24.70s
+  Step 3 - Init Retarget:     0.62s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    362.03s (avg: 0.366s/frame)
+  Step 6 - Convert Arrays:    0.15s
+  Step 7 - Forward Kinematics: 0.62s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:52:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-12-juggling_real-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008752.pkl
+Robot type: unitree_g1
+Processing time: 662.29 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        24.04s
+  Step 2 - Align FPS:         56.28s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    580.51s (avg: 0.586s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.46s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:52:38 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-14-apologize-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008754.pkl
+Robot type: unitree_g1
+Processing time: 528.54 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        19.54s
+  Step 2 - Align FPS:         67.69s
+  Step 3 - Init Retarget:     0.84s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    439.83s (avg: 0.444s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.26s
+  Step 8 - Save Data:         0.08s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:54:44 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-10-snip_nail-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008750.pkl
+Robot type: unitree_g1
+Processing time: 887.55 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        16.89s
+  Step 2 - Align FPS:         154.31s
+  Step 3 - Init Retarget:     0.70s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    713.61s (avg: 0.387s/frame)
+  Step 6 - Convert Arrays:    0.03s
+  Step 7 - Forward Kinematics: 1.66s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:56:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-15-whip_-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008755.pkl
+Robot type: unitree_g1
+Processing time: 471.22 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        14.47s
+  Step 2 - Align FPS:         73.32s
+  Step 3 - Init Retarget:     0.62s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    381.66s (avg: 0.386s/frame)
+  Step 6 - Convert Arrays:    0.06s
+  Step 7 - Forward Kinematics: 0.52s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:56:32 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-16-dryer-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008756.pkl
+Robot type: unitree_g1
+Processing time: 443.03 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        16.79s
+  Step 2 - Align FPS:         58.80s
+  Step 3 - Init Retarget:     0.40s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    366.22s (avg: 0.370s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.36s
+  Step 8 - Save Data:         0.14s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 21:58:28 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-18-eat-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008757.pkl
+Robot type: unitree_g1
+Processing time: 350.50 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.20s
+  Step 2 - Align FPS:         44.98s
+  Step 3 - Init Retarget:     1.06s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    293.41s (avg: 0.296s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.45s
+  Step 8 - Save Data:         0.07s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:00:45 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-19-fold_legs-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008758.pkl
+Robot type: unitree_g1
+Processing time: 485.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        8.85s
+  Step 2 - Align FPS:         48.89s
+  Step 3 - Init Retarget:     1.07s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    425.72s (avg: 0.430s/frame)
+  Step 6 - Convert Arrays:    0.09s
+  Step 7 - Forward Kinematics: 0.66s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:02:00 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-21-clapping-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008759.pkl
+Robot type: unitree_g1
+Processing time: 433.20 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        9.64s
+  Step 2 - Align FPS:         38.96s
+  Step 3 - Init Retarget:     0.65s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    382.86s (avg: 0.387s/frame)
+  Step 6 - Convert Arrays:    0.10s
+  Step 7 - Forward Kinematics: 0.49s
+  Step 8 - Save Data:         0.07s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:03:43 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-23-mobile_call-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008761.pkl
+Robot type: unitree_g1
+Processing time: 429.26 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        19.51s
+  Step 2 - Align FPS:         55.98s
+  Step 3 - Init Retarget:     0.77s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    352.26s (avg: 0.356s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.30s
+  Step 8 - Save Data:         0.05s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:03:55 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-22-mobile_receive-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008760.pkl
+Robot type: unitree_g1
+Processing time: 443.11 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        16.86s
+  Step 2 - Align FPS:         57.29s
+  Step 3 - Init Retarget:     1.09s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    366.87s (avg: 0.371s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.26s
+  Step 8 - Save Data:         0.06s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:06:25 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-25-magic-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008762.pkl
+Robot type: unitree_g1
+Processing time: 475.72 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        15.67s
+  Step 2 - Align FPS:         66.55s
+  Step 3 - Init Retarget:     0.47s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    392.52s (avg: 0.402s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.25s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:07:39 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-26-hit_mosquito-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008763.pkl
+Robot type: unitree_g1
+Processing time: 411.88 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        20.74s
+  Step 2 - Align FPS:         68.46s
+  Step 3 - Init Retarget:     1.02s
+  Step 4 - Init Visualization: 0.01s
+  Step 5 - Process Frames:    320.99s (avg: 0.324s/frame)
+  Step 6 - Convert Arrays:    0.04s
+  Step 7 - Forward Kinematics: 0.21s
+  Step 8 - Save Data:         0.02s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:09:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-27-hit_cockroach-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008764.pkl
+Robot type: unitree_g1
+Processing time: 453.71 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.40s
+  Step 2 - Align FPS:         32.94s
+  Step 3 - Init Retarget:     0.64s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    409.19s (avg: 0.413s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.27s
+  Step 8 - Save Data:         0.01s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:11:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-30-fxxk-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008766.pkl
+Robot type: unitree_g1
+Processing time: 478.64 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        15.02s
+  Step 2 - Align FPS:         48.38s
+  Step 3 - Init Retarget:     0.74s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    413.81s (avg: 0.418s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.24s
+  Step 8 - Save Data:         0.07s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:12:30 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-29-pantomime-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008765.pkl
+Robot type: unitree_g1
+Processing time: 525.33 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        18.50s
+  Step 2 - Align FPS:         53.05s
+  Step 3 - Init Retarget:     1.10s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    452.05s (avg: 0.457s/frame)
+  Step 6 - Convert Arrays:    0.01s
+  Step 7 - Forward Kinematics: 0.22s
+  Step 8 - Save Data:         0.08s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:13:23 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-32-no-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008767.pkl
+Robot type: unitree_g1
+Processing time: 415.84 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        11.41s
+  Step 2 - Align FPS:         42.48s
+  Step 3 - Init Retarget:     0.59s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    360.65s (avg: 0.364s/frame)
+  Step 6 - Convert Arrays:    0.04s
+  Step 7 - Forward Kinematics: 0.22s
+  Step 8 - Save Data:         0.07s
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 22:16:09 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/Eyes_Japan_Dataset/kudo/gesture_etc-33-watch_here-kudo_stageii.npz
+Output file: ../robot/ik_based/pkl/008768.pkl
+Robot type: unitree_g1
+Processing time: 507.50 seconds
+
+STEP-BY-STEP TIMING:
+  Step 1 - Load SMPLX:        10.27s
+  Step 2 - Align FPS:         65.58s
+  Step 3 - Init Retarget:     1.26s
+  Step 4 - Init Visualization: 0.00s
+  Step 5 - Process Frames:    429.48s (avg: 0.434s/frame)
+  Step 6 - Convert Arrays:    0.00s
+  Step 7 - Forward Kinematics: 0.56s
+  Step 8 - Save Data:         0.06s
+Status: SUCCESS
+==================================================

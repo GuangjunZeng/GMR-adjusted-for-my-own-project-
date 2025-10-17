@@ -1,0 +1,27 @@
+#single motion for smplx
+#python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/ankles_stageii.pkl --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_ankles_stageii.pkl --rate_limit
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_ankles_stageii.npz --rate_limit
+
+
+#single motion for smpl
+python scripts/smpl_to_robot.py --smpl_file /home/SSM_SMPL/20160330_03333/ankles_poses.npz --robot unitree_g1 --save_path  /home/SSM_SMPL/20160330_03333/ankles_poses.npz --rate_limit
+
+qDAhEaAU
+
+
+
+
+
+single motion:
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_ankles_stageii.pkl --rate_limit
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/walking_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_walking_stageii.pkl --rate_limit
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/side_hopping_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_side_hopping_stageii.pkl --rate_limit
+
+
+
+a folder
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20160330_03333 --tgt_folder /home/SSM_SMPLX/20160330_03333_retarget_pkl --robot unitree_g1
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20160930_50032 --tgt_folder /home/SSM_SMPLX/20160930_50032_retarget_pkl --robot unitree_g1
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20161014_50033 --tgt_folder /home/SSM_SMPLX/20161014_50033_retarget_pkl --robot unitree_g1
+
+

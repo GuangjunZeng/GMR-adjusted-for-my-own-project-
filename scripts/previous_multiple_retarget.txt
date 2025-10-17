@@ -1,0 +1,281 @@
+conda activate gmr
+
+#利用metainfo批量处理
+#@带可视化
+python scripts/smplx_to_robot_multiplenpz.py --csv_file scripts/sample_data.csv --save_path /home/SSM_SMPLX/20160330_03333_test/ --visualize
+#@不带可视化处理
+python scripts/smplx_to_robot_multiplenpz.py --csv_file scripts/sample_data.csv --save_path /home/SSM_SMPLX/20160330_03333_test/
+
+
+single motion:
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_ankles_stageii.pkl --rate_limit
+
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/walking_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_walking_stageii.pkl --rate_limit
+
+python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/side_hopping_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_side_hopping_stageii.pkl --rate_limit
+
+
+
+a folder
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20160330_03333 --tgt_folder /home/SSM_SMPLX/20160330_03333_retarget_pkl --robot unitree_g1
+
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20160930_50032 --tgt_folder /home/SSM_SMPLX/20160930_50032_retarget_pkl --robot unitree_g1
+
+python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20161014_50033 --tgt_folder /home/SSM_SMPLX/20161014_50033_retarget_pkl --robot unitree_g1
+
+
+
+
+(gmr) gpu@9gpu-com:/home/GMR$ python scripts/smplx_to_robot_dataset.py --src_folder /home/SSM_SMPLX/20160330_03333 --tgt_folder /home/SSM_SMPLX/20160330_03333_retarget_pkl --robot unitree_g1
+Total CPUs: 12
+Using 4 CPUs.
+full args_list: 16
+new args_list: 16
+Total number of files to process: 16
+[WARNING] Memory usage:2.47 GB, available:28.86 GB, exceeding the threshold of 
+30 GB.
+[WARNING] Memory usage:2.47 GB, available:28.86 GB, exceeding the threshold of 
+30 GB.
+[WARNING] Memory usage:2.47 GB, available:28.86 GB, exceeding the threshold of 
+30 GB.
+[WARNING] Memory usage:2.47 GB, available:28.86 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 0
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 0
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 0
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 0
+
+
+
+
+
+[WARNING] Memory usage:2.49 GB, available:28.85 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 1
+[WARNING] Memory usage:2.49 GB, available:28.85 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 1
+[WARNING] Memory usage:2.49 GB, available:28.85 GB, exceeding the threshold of 
+30 GB.
+[WARNING] Memory usage:2.49 GB, available:28.85 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 1
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 1
+[WARNING] Memory usage:2.49 GB, available:28.84 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 2
+[WARNING] Memory usage:2.49 GB, available:28.84 GB, exceeding the threshold of 
+30 GB.
+[WARNING] Memory usage:2.49 GB, available:28.84 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 2
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 2
+[WARNING] Memory usage:2.49 GB, available:28.84 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 2
+[WARNING] Memory usage:2.51 GB, available:28.82 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 3
+[WARNING] Memory usage:2.51 GB, available:28.82 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 3
+[WARNING] Memory usage:2.51 GB, available:28.82 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 3
+[WARNING] Memory usage:2.51 GB, available:28.82 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 3
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 4
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 4
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 4
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 4
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 5
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 5
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 5
+[WARNING] Memory usage:2.50 GB, available:28.83 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 5
+[WARNING] Memory usage:2.55 GB, available:28.78 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/chicken_wings_stageii.npz to prevent memory 
+overflow. num_pause: 6
+[WARNING] Memory usage:2.55 GB, available:28.78 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing 
+/home/SSM_SMPLX/20160330_03333/jiggle_on_toes_stageii.npz to prevent memory 
+overflow. num_pause: 6
+[WARNING] Memory usage:2.55 GB, available:28.78 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz to 
+prevent memory overflow. num_pause: 6
+[WARNING] Memory usage:2.55 GB, available:28.78 GB, exceeding the threshold of 
+30 GB.
+[PAUSE] Paused processing /home/SSM_SMPLX/20160330_03333/ATU_001_stageii.npz to 
+prevent memory overflow. num_pause: 6
+
+
+
+
+
+(gmr) gpu@9gpu-com:/home/GMR$ python scripts/smplx_to_robot.py --smplx_file /home/SSM_SMPLX/20160330_03333/ankles_stageii.npz --robot unitree_g1 --save_path  /home/SSM_SMPLX/20160330_03333/retarget_ankles_stageii.pkl --rate_limit
+Use robot model:  
+/home/GMR/general_motion_retargeting/../assets/unitree_g1/g1_mocap_29dof.xml
+[GMR] Robot Degrees of Freedom (DoF) names and their order:
+DoF 0: pelvis
+DoF 1: pelvis
+DoF 2: pelvis
+DoF 3: pelvis
+DoF 4: pelvis
+DoF 5: pelvis
+DoF 6: left_hip_pitch_joint
+DoF 7: left_hip_roll_joint
+DoF 8: left_hip_yaw_joint
+DoF 9: left_knee_joint
+DoF 10: left_ankle_pitch_joint
+DoF 11: left_ankle_roll_joint
+DoF 12: right_hip_pitch_joint
+DoF 13: right_hip_roll_joint
+DoF 14: right_hip_yaw_joint
+DoF 15: right_knee_joint
+DoF 16: right_ankle_pitch_joint
+DoF 17: right_ankle_roll_joint
+DoF 18: waist_yaw_joint
+DoF 19: waist_roll_joint
+DoF 20: waist_pitch_joint
+DoF 21: left_shoulder_pitch_joint
+DoF 22: left_shoulder_roll_joint
+DoF 23: left_shoulder_yaw_joint
+DoF 24: left_elbow_joint
+DoF 25: left_wrist_roll_joint
+DoF 26: left_wrist_pitch_joint
+DoF 27: left_wrist_yaw_joint
+DoF 28: right_shoulder_pitch_joint
+DoF 29: right_shoulder_roll_joint
+DoF 30: right_shoulder_yaw_joint
+DoF 31: right_elbow_joint
+DoF 32: right_wrist_roll_joint
+DoF 33: right_wrist_pitch_joint
+DoF 34: right_wrist_yaw_joint
+[GMR] Robot Body names and their IDs:
+Body ID 0: world
+Body ID 1: pelvis
+Body ID 2: left_hip_pitch_link
+Body ID 3: left_hip_roll_link
+Body ID 4: left_hip_yaw_link
+Body ID 5: left_knee_link
+Body ID 6: left_ankle_pitch_link
+Body ID 7: left_ankle_roll_link
+Body ID 8: left_toe_link
+Body ID 9: pelvis_contour_link
+Body ID 10: right_hip_pitch_link
+Body ID 11: right_hip_roll_link
+Body ID 12: right_hip_yaw_link
+Body ID 13: right_knee_link
+Body ID 14: right_ankle_pitch_link
+Body ID 15: right_ankle_roll_link
+Body ID 16: right_toe_link
+Body ID 17: waist_yaw_link
+Body ID 18: waist_roll_link
+Body ID 19: torso_link
+Body ID 20: head_link
+Body ID 21: head_mocap
+Body ID 22: imu_in_torso
+Body ID 23: left_shoulder_pitch_link
+Body ID 24: left_shoulder_roll_link
+Body ID 25: left_shoulder_yaw_link
+Body ID 26: left_elbow_link
+Body ID 27: left_wrist_roll_link
+Body ID 28: left_wrist_pitch_link
+Body ID 29: left_wrist_yaw_link
+Body ID 30: left_rubber_hand
+Body ID 31: right_shoulder_pitch_link
+Body ID 32: right_shoulder_roll_link
+Body ID 33: right_shoulder_yaw_link
+Body ID 34: right_elbow_link
+Body ID 35: right_wrist_roll_link
+Body ID 36: right_wrist_pitch_link
+Body ID 37: right_wrist_yaw_link
+Body ID 38: right_rubber_hand
+[GMR] Robot Motor (Actuator) names and their IDs:
+Motor ID 0: left_hip_pitch_joint
+Motor ID 1: left_hip_roll_joint
+Motor ID 2: left_hip_yaw_joint
+Motor ID 3: left_knee_joint
+Motor ID 4: left_ankle_pitch_joint
+Motor ID 5: left_ankle_roll_joint
+Motor ID 6: right_hip_pitch_joint
+Motor ID 7: right_hip_roll_joint
+Motor ID 8: right_hip_yaw_joint
+Motor ID 9: right_knee_joint
+Motor ID 10: right_ankle_pitch_joint
+Motor ID 11: right_ankle_roll_joint
+Motor ID 12: waist_yaw_joint
+Motor ID 13: waist_roll_joint
+Motor ID 14: waist_pitch_joint
+Motor ID 15: left_shoulder_pitch_joint
+Motor ID 16: left_shoulder_roll_joint
+Motor ID 17: left_shoulder_yaw_joint
+Motor ID 18: left_elbow_joint
+Motor ID 19: left_wrist_roll_joint
+Motor ID 20: left_wrist_pitch_joint
+Motor ID 21: left_wrist_yaw_joint
+Motor ID 22: right_shoulder_pitch_joint
+Motor ID 23: right_shoulder_roll_joint
+Motor ID 24: right_shoulder_yaw_joint
+Motor ID 25: right_elbow_joint
+Motor ID 26: right_wrist_roll_joint
+Motor ID 27: right_wrist_pitch_joint
+Motor ID 28: right_wrist_yaw_joint
+Use IK config:  /home/GMR/general_motion_retargeting/ik_configs/smplx_to_g1.json
+

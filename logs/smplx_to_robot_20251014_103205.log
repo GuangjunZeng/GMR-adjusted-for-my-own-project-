@@ -1,0 +1,108 @@
+
+=== ERROR LOG - 2025-10-14 10:32:37 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/143/female_stagei.npz
+Output file: ../robot/ik_based/pkl/006374.pkl
+Robot type: unitree_g1
+Processing time: 31.96 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/144/female_stagei.npz
+Output file: ../robot/ik_based/pkl/006405.pkl
+Robot type: unitree_g1
+Processing time: 55.35 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/16/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006423.pkl
+Robot type: unitree_g1
+Processing time: 82.75 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/24/female_stagei.npz
+Output file: ../robot/ik_based/pkl/006435.pkl
+Robot type: unitree_g1
+Processing time: 81.99 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:36 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/17/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006433.pkl
+Robot type: unitree_g1
+Processing time: 88.26 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:37 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/26/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006443.pkl
+Robot type: unitree_g1
+Processing time: 91.93 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:38 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/15/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006420.pkl
+Robot type: unitree_g1
+Processing time: 90.81 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:33:51 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/25/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006437.pkl
+Robot type: unitree_g1
+Processing time: 102.28 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:35:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/30/female_stagei.npz
+Output file: ../robot/ik_based/pkl/006522.pkl
+Robot type: unitree_g1
+Processing time: 213.12 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:36:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/29/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006499.pkl
+Robot type: unitree_g1
+Processing time: 236.96 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:36:29 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/27/male_stagei.npz
+Output file: ../robot/ik_based/pkl/006455.pkl
+Robot type: unitree_g1
+Processing time: 262.54 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== ERROR LOG - 2025-10-14 10:36:35 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/28/female_stagei.npz
+Output file: ../robot/ik_based/pkl/006473.pkl
+Robot type: unitree_g1
+Processing time: 267.29 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================

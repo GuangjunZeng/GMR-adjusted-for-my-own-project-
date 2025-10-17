@@ -1,0 +1,8 @@
+index,start_frame,end_frame,source_path
+000000,0,524,AMASS_SMPLXG/ACCAD/Female1General_c3d/A10_-_lie_to_crouch_stageii.npz
+000001,0,2399,AMASS_SMPLXG/ACCAD/Female1General_c3d/A11_-_crawl_forward_stageii.npz
+000002,0,2647,AMASS_SMPLXG/ACCAD/Female1General_c3d/A12_-_crawl_backwards_stageii.npz
+000003,0,618,AMASS_SMPLXG/ACCAD/Female1General_c3d/A14_-_stand_to_skip_stageii.npz
+000004,0,511,AMASS_SMPLXG/ACCAD/Female1General_c3d/A15_-_skip_to_stand_stageii.npz
+000005,0,360,AMASS_SMPLXG/ACCAD/Female1General_c3d/A1_-_Stand_stageii.npz
+000006,0,1443,AMASS_SMPLXG/ACCAD/Female1General_c3d/A2_-_Sway_stageii.npz

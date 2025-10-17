@@ -1,0 +1,42 @@
+
+python scripts/29dof_pkl_to_csv.py --pkl /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.pkl --out /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.csv --include-base
+[INFO] 未提供 --mjcf,将假定 pkl 的列顺序已经与目标顺序一致（不重排）。
+[OK] 保存至: /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.csv  形状=(131, 36)  (列= 7+29)
+
+
+python scripts/29dof_pkl_to_csv.py --pkl /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.pkl --out /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.csv --include-base
+[INFO] 未提供 --mjcf,将假定 pkl 的列顺序已经与目标顺序一致（不重排）。
+[OK] 保存至: /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.csv  形状=(599, 36)  (列= 7+29)
+
+
+#将csv和npz文件进行数值对比即可判断pkl——to——npz是否正确，但前提也是pkl-to-csv是正确的。
+
+python scripts/29dof_pkl_to_npz.py --pkl /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.pkl --out /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.npz --include-base
+[INFO] 未提供 --mjcf,将假定 pkl 的列顺序已经与目标顺序一致（不重排）。
+[OK] 保存至: /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.npz
+     形状: (131, 36)
+     列数: 7+29
+     精度: float64
+     包含数据: ['joints', 'joint_names', 'root_pos', 'root_quat', 'full_data', 'num_frames', 'num_joints', 'include_base']
+
+python scripts/29dof_pkl_to_npz.py --pkl /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.pkl --out /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.npz --include-base
+[INFO] 未提供 --mjcf,将假定 pkl 的列顺序已经与目标顺序一致（不重排）。
+[OK] 保存至: /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.npz
+     形状: (599, 36)
+     列数: 7+29
+     精度: float64
+     包含数据: ['joints', 'joint_names', 'root_pos', 'root_quat', 'full_data', 'num_frames', 'num_joints', 'include_base']
+
+
+
+##---对比检查
+000000 
+#局部检查
+scripts/verify_npz_csv.py --csv /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.csv --npz /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.npz --local-only
+#全局检查
+scripts/verify_npz_csv.py --csv /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.csv --npz /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000000.npz 
+
+000001
+scripts/verify_npz_csv.py --csv /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.csv --npz /home/retarget_proj/workbench/data/locomotion/GMR/scripts/test_retarget_npz2pkl/000001.npz 
+
+

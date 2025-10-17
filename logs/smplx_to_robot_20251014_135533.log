@@ -1,0 +1,229 @@
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 13:55:33 ===
+File index: 007740
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Afraid_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007740.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 13:55:33 ===
+File index: 007741
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Bored_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007741.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 13:55:33 ===
+File index: 007742
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Excited_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007742.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 13:55:33 ===
+File index: 007743
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Happy_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007743.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== SKIPPED (ALREADY EXISTS) - 2025-10-14 13:55:33 ===
+File index: 007744
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Miserable_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007744.pkl
+Status: SKIPPED (ALREADY EXISTS)
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:56:06 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Mix_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007745.pkl
+Robot type: unitree_g1
+Processing time: 33.90 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 4.66s
+  Align Fps: 15.51s
+  Init Retarget: 0.92s
+  Init Visualization: 0.00s
+Error message: Joint 4 (left_knee_joint) violates configuration limits -0.087267 <= -0.10403272268009381 <= 2.8798
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:56:07 ===
+File index: 007745
+File number: 6/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Mix_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007745.pkl
+Processing time: 33.90 seconds
+Total file time: 34.01 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:56:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Pleased_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007746.pkl
+Robot type: unitree_g1
+Processing time: 49.68 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 3.68s
+  Align Fps: 13.58s
+  Init Retarget: 0.32s
+  Init Visualization: 0.00s
+Error message: Joint 5 (left_ankle_pitch_joint) violates configuration limits -0.87267 <= 0.5703837494041024 <= 0.5236
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:56:56 ===
+File index: 007746
+File number: 7/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Pleased_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007746.pkl
+Processing time: 49.68 seconds
+Total file time: 49.78 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:57:27 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Tired_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007747.pkl
+Robot type: unitree_g1
+Processing time: 30.18 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 3.56s
+  Align Fps: 12.84s
+  Init Retarget: 0.22s
+  Init Visualization: 0.00s
+Error message: Joint 2 (left_hip_roll_joint) violates configuration limits -0.5236 <= -0.5238585747538111 <= 1.57
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:57:27 ===
+File index: 007747
+File number: 8/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/Theodora_Tired_C3D_stageii.npz
+Output file: ../robot/ik_based/pkl/007747.pkl
+Processing time: 30.18 seconds
+Total file time: 30.29 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:57:27 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/female_stagei.npz
+Output file: ../robot/ik_based/pkl/007748.pkl
+Robot type: unitree_g1
+Processing time: 0.64 seconds
+Error message: 'pose_body is not a file in the archive'
+Error type: KeyError
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:57:29 ===
+File index: 007748
+File number: 9/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_TheodoraTsiakka/female_stagei.npz
+Output file: ../robot/ik_based/pkl/007748.pkl
+Processing time: 0.64 seconds
+Total file time: 2.36 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:58:07 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Afraid_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007749.pkl
+Robot type: unitree_g1
+Processing time: 37.94 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 4.19s
+  Align Fps: 14.00s
+  Init Retarget: 0.28s
+  Init Visualization: 0.00s
+Error message: Joint 5 (left_ankle_pitch_joint) violates configuration limits -0.87267 <= -0.8726878442632577 <= 0.5236
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:58:07 ===
+File index: 007749
+File number: 10/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Afraid_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007749.pkl
+Processing time: 37.94 seconds
+Total file time: 38.06 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 13:59:13 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Angry_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007750.pkl
+Robot type: unitree_g1
+Processing time: 66.41 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 4.19s
+  Align Fps: 15.72s
+  Init Retarget: 0.19s
+  Init Visualization: 0.00s
+Error message: Joint 1 (left_hip_pitch_joint) violates configuration limits -1.57 <= -1.5707170097489842 <= 1.57
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 13:59:14 ===
+File index: 007750
+File number: 11/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Angry_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007750.pkl
+Processing time: 66.41 seconds
+Total file time: 66.53 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 14:00:07 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Annoyed_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007751.pkl
+Robot type: unitree_g1
+Processing time: 53.86 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 3.87s
+  Align Fps: 14.22s
+  Init Retarget: 0.26s
+  Init Visualization: 0.00s
+Error message: Joint 10 (right_knee_joint) violates configuration limits -0.087267 <= -0.08798475370408151 <= 2.8798
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 14:00:08 ===
+File index: 007751
+File number: 12/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Annoyed_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007751.pkl
+Processing time: 53.86 seconds
+Total file time: 53.99 seconds
+Status: FAILED
+==================================================
+
+=== ERROR LOG - 2025-10-14 14:01:13 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Bored_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007752.pkl
+Robot type: unitree_g1
+Processing time: 64.95 seconds
+
+STEP-BY-STEP TIMING (FAILED):
+  Load Smplx: 4.15s
+  Align Fps: 15.40s
+  Init Retarget: 0.20s
+  Init Visualization: 0.00s
+Error message: Joint 7 (right_hip_pitch_joint) violates configuration limits -1.57 <= -1.57225788736354 <= 1.57
+Error type: NotWithinConfigurationLimits
+==================================================
+
+=== FILE FAILURE - 2025-10-14 14:01:13 ===
+File index: 007752
+File number: 13/321
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/DanceDB/20131001_VasoAristeidou/Vasso_Bored_01_stageii.npz
+Output file: ../robot/ik_based/pkl/007752.pkl
+Processing time: 64.95 seconds
+Total file time: 65.09 seconds
+Status: FAILED
+==================================================

@@ -1,0 +1,177 @@
+
+=== SUCCESS LOG - 2025-10-14 10:55:12 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_15_stageii.npz
+Output file: ../robot/ik_based/pkl/007013.pkl
+Robot type: unitree_g1
+Processing time: 105.96 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:33 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_29_stageii.npz
+Output file: ../robot/ik_based/pkl/007027.pkl
+Robot type: unitree_g1
+Processing time: 127.38 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:42 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_19_stageii.npz
+Output file: ../robot/ik_based/pkl/007017.pkl
+Robot type: unitree_g1
+Processing time: 136.02 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:46 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_17_stageii.npz
+Output file: ../robot/ik_based/pkl/007015.pkl
+Robot type: unitree_g1
+Processing time: 140.62 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_35_stageii.npz
+Output file: ../robot/ik_based/pkl/007033.pkl
+Robot type: unitree_g1
+Processing time: 147.91 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_32_stageii.npz
+Output file: ../robot/ik_based/pkl/007030.pkl
+Robot type: unitree_g1
+Processing time: 148.45 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:54 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_24_stageii.npz
+Output file: ../robot/ik_based/pkl/007022.pkl
+Robot type: unitree_g1
+Processing time: 148.68 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:56 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_16_stageii.npz
+Output file: ../robot/ik_based/pkl/007014.pkl
+Robot type: unitree_g1
+Processing time: 150.07 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:55:59 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_18_stageii.npz
+Output file: ../robot/ik_based/pkl/007016.pkl
+Robot type: unitree_g1
+Processing time: 153.27 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:00 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_33_stageii.npz
+Output file: ../robot/ik_based/pkl/007031.pkl
+Robot type: unitree_g1
+Processing time: 153.85 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:01 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_21_stageii.npz
+Output file: ../robot/ik_based/pkl/007019.pkl
+Robot type: unitree_g1
+Processing time: 155.02 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:02 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_34_stageii.npz
+Output file: ../robot/ik_based/pkl/007032.pkl
+Robot type: unitree_g1
+Processing time: 156.48 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:04 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_20_stageii.npz
+Output file: ../robot/ik_based/pkl/007018.pkl
+Robot type: unitree_g1
+Processing time: 158.45 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:05 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_27_stageii.npz
+Output file: ../robot/ik_based/pkl/007025.pkl
+Robot type: unitree_g1
+Processing time: 159.59 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:08 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_26_stageii.npz
+Output file: ../robot/ik_based/pkl/007024.pkl
+Robot type: unitree_g1
+Processing time: 162.00 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:08 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_25_stageii.npz
+Output file: ../robot/ik_based/pkl/007023.pkl
+Robot type: unitree_g1
+Processing time: 162.49 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:15 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_28_stageii.npz
+Output file: ../robot/ik_based/pkl/007026.pkl
+Robot type: unitree_g1
+Processing time: 169.65 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:17 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_23_stageii.npz
+Output file: ../robot/ik_based/pkl/007021.pkl
+Robot type: unitree_g1
+Processing time: 171.65 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:20 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_22_stageii.npz
+Output file: ../robot/ik_based/pkl/007020.pkl
+Robot type: unitree_g1
+Processing time: 174.38 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:23 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_30_stageii.npz
+Output file: ../robot/ik_based/pkl/007028.pkl
+Robot type: unitree_g1
+Processing time: 176.90 seconds
+Status: SUCCESS
+==================================================
+
+=== SUCCESS LOG - 2025-10-14 10:56:26 ===
+Input file: /data/retarget/locomotion/raw/AMASS_SMPLXG/CMU/78/78_31_stageii.npz
+Output file: ../robot/ik_based/pkl/007029.pkl
+Robot type: unitree_g1
+Processing time: 179.89 seconds
+Status: SUCCESS
+==================================================
+
+=== FINAL STATISTICS - 2025-10-14 10:56:26 ===
+Total files processed: 21
+Successful: 21
+Failed: 0
+单纯加每个文件处理时间累加，但这是并行运算, Total processing time: 3238.71 seconds
+真正的程序运行时间 Total execution time: 180.33 seconds
+Average processing time per file: 154.22 seconds
+==================================================
